@@ -1,13 +1,34 @@
-# ReasonReact Template & Examples
+# Meditaion room
+
+<svg width="281" height="250" viewBox="0 0 281 398" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M107.828 227.097C124.234 205.456 156.766 205.456 173.172 227.097L212.316 278.731C232.786 305.732 213.527 344.5 179.644 344.5H101.356C67.4726 344.5 48.2137 305.732 68.6837 278.731L107.828 227.097Z" fill="#7A7482"/>
+<rect x="144" y="245" width="16" height="87" rx="4" fill="#F6C471" fill-opacity="0.7"/>
+<rect x="117" y="245" width="16" height="87" rx="4" fill="#F6C471" fill-opacity="0.7"/>
+<rect x="117" y="311" width="16" height="19" fill="#8ED1CD"/>
+<rect x="144" y="311" width="16" height="19" fill="#8ED1CD"/>
+<rect x="91" y="155" width="101" height="98" rx="6" fill="#8ED1CD"/>
+<path d="M148.5 250.5C161.5 236 229.545 245.541 235.958 229.03C240.621 217.022 234.3 198.508 215.5 186" stroke="#F6C471" stroke-width="15" stroke-linecap="round"/>
+<path d="M133.5 250.5C125.5 239.5 54.6876 246 48.5 229.5C43.9999 217.5 53.8316 196.818 71.9707 184.318" stroke="#F6C471" stroke-width="15" stroke-linecap="round"/>
+<rect x="104.831" y="149" width="19.1698" height="58.6765" rx="5" transform="rotate(54.9391 104.831 149)" fill="#8ED1CD"/>
+<rect x="179" y="174.14" width="19.1698" height="58.6765" rx="5" transform="rotate(-57.3443 179 174.14)" fill="#8ED1CD"/>
+<rect x="15" y="54" width="253" height="111" rx="22" fill="#F6C471"/>
+<ellipse cx="61" cy="70.5" rx="46" ry="50.5" fill="#F6C471"/>
+<ellipse cx="222" cy="60.5" rx="46" ry="60.5" fill="#F6C471"/>
+<ellipse cx="131.5" cy="80.5" rx="35.5" ry="60.5" fill="#F6C471"/>
+<ellipse cx="166.5" cy="91.5" rx="25.5" ry="60.5" fill="#F6C471"/>
+<path d="M130.136 107C131.718 107 133.013 108.285 132.878 109.86C132.311 116.501 129.781 122.746 125.678 127.506C120.989 132.945 114.63 136 108 136C101.37 136 95.0107 132.945 90.3223 127.506C86.2188 122.746 83.6891 116.501 83.1218 109.86C82.9872 108.285 84.2822 107 85.8638 107V107C87.4455 107 88.7111 108.286 88.8858 109.858C89.4274 114.733 91.3439 119.295 94.3724 122.808C97.9867 127.001 102.889 129.356 108 129.356C113.111 129.356 118.013 127.001 121.628 122.808C124.656 119.295 126.573 114.733 127.114 109.858C127.289 108.286 128.555 107 130.136 107V107Z" fill="#434040" fill-opacity="0.6"/>
+<path d="M189.079 107C190.692 107 192.014 108.31 191.871 109.917C191.282 116.537 188.705 122.76 184.531 127.506C179.749 132.945 173.263 136 166.5 136C159.737 136 153.251 132.945 148.469 127.506C144.295 122.76 141.718 116.537 141.129 109.917C140.986 108.31 142.308 107 143.921 107V107C145.534 107 146.825 108.312 147.01 109.915C147.571 114.768 149.523 119.309 152.6 122.808C156.286 127.001 161.286 129.356 166.5 129.356C171.714 129.356 176.714 127.001 180.4 122.808C183.477 119.309 185.429 114.768 185.99 109.915C186.175 108.312 187.466 107 189.079 107V107Z" fill="#434040" fill-opacity="0.6"/>
+<path d="M152 142C150.619 144.451 145.508 147 137.5 147C129.492 147 123.921 143.765 123 142" stroke="#434040" stroke-opacity="0.6" stroke-width="7" stroke-linecap="round"/>
+<path d="M17.1656 54.9376C17.7731 52.0099 18.9709 49.2368 20.686 46.7877L28.6695 35.387C29.548 34.1324 30.5552 32.973 31.6745 31.9277L35.0089 28.8137C36.6509 27.2803 38.518 26.0074 40.5454 25.0394L43.4483 23.6533C45.0526 22.8873 46.7439 22.3185 48.4851 21.9595L55.5636 20.5V20.5C69.5184 16.6674 79.0956 34.2935 68.2868 43.9161L66.8494 45.1957C65.5105 46.3877 64.4106 47.8235 63.6083 49.4265L56.5487 63.5318C55.8936 64.8407 55.3708 66.2116 54.988 67.6243L47.7908 94.1844C46.5402 98.7997 46.8273 103.697 48.6086 108.134L59.3148 134.804C65.1174 149.259 54.4742 165 38.8984 165H37C24.8497 165 15 155.15 15 143V98.3333V69.3759C15 68.2709 15.0832 67.1675 15.249 66.075L16.3227 59L17.1656 54.9376Z" fill="#F6914E" fill-opacity="0.5"/>
+<rect x="112" y="329" width="25" height="12" rx="6" fill="#F6914E"/>
+<rect x="140" y="329" width="25" height="12" rx="6" fill="#F6914E"/>
+</svg>
 
 This is:
-- A template for your new ReasonReact project.
-- A collection of thin examples illustrating ReasonReact usage.
-- Extra helper documentation for ReasonReact (full ReasonReact docs [here](https://reasonml.github.io/reason-react/)).
 
-`src` contains 4 sub-folders, each an independent, self-contained ReasonReact example. Feel free to delete any of them and shape this into your project! This template's more malleable than you might be used to =).
-
-The point of this template and examples is to let you understand and personally tweak the entirely of it. We **don't** give you an opaque, elaborate mega build setup just to put some boxes on the screen. It strikes to stay transparent, learnable, and simple. You're encouraged to read every file; it's a great feeling, having the full picture of what you're using and being able to touch any part.
+- For Mange your mindfull time.
+- Learning ReasonML and Reason React in one week.
+- All animation is created by `svg` and `CSS`.
 
 ## Run
 
@@ -20,42 +41,7 @@ npm start
 
 Open a new web page to `http://localhost:8000/`. Change any `.re` file in `src` to see the page auto-reload. **You don't need any bundler when you're developing**!
 
-**How come we don't need any bundler during development**? We highly encourage you to open up `index.html` to check for yourself!
+Design and animation are inspire by HeadSpace.
+Charactor and desing are recreate by using them desing!
 
-# Features Used
-
-|                           | Blinking Greeting | Reducer from ReactJS Docs | Fetch Dog Pictures | Reason Using JS Using Reason |
-|---------------------------|-------------------|---------------------------|--------------------|------------------------------|
-| No props                  |                   | ✓                         |                    |                              |
-| Has props                 |                   |                           |                    | ✓                            |
-| Children props            | ✓                 |                           |                    |                              |
-| No state                  |                   |                           |                    | ✓                            |
-| Has state                 | ✓                 |                           |  ✓                 |                              |
-| Has state with useReducer |                   | ✓                         |                    |                              |
-| ReasonReact using ReactJS |                   |                           |                    | ✓                            |
-| ReactJS using ReasonReact |                   |                           |                    | ✓                            |
-| useEffect                 | ✓                 |                           |  ✓                 |                              |
-| Dom attribute             | ✓                 | ✓                         |                    | ✓                            |
-| Styling                   | ✓                 | ✓                         |  ✓                 | ✓                            |
-| React.array               |                   |                           |  ✓                 |                              |
-
-# Bundle for Production
-
-We've included a convenience `UNUSED_webpack.config.js`, in case you want to ship your project to production. You can rename and/or remove that in favor of other bundlers, e.g. Rollup.
-
-We've also provided a barebone `indexProduction.html`, to serve your bundle.
-
-```sh
-npm install webpack webpack-cli
-# rename file
-mv UNUSED_webpack.config.js webpack.config.js
-# call webpack to bundle for production
-./node_modules/.bin/webpack
-open indexProduction.html
-```
-
-# Handle Routing Yourself
-
-To serve the files, this template uses a minimal dependency called `moduleserve`. A URL such as `localhost:8000/scores/john` resolves to the file `scores/john.html`. If you'd like to override this and handle URL resolution yourself, change the `server` command in `package.json` from `moduleserve ./ --port 8000` to `moduleserve ./ --port 8000 --spa` (for "single page application"). This will make `moduleserve` serve the default `index.html` for any URL. Since `index.html` loads `Index.bs.js`, you can grab hold of the URL in the corresponding `Index.re` and do whatever you want.
-
-By the way, ReasonReact comes with a small [router](https://reasonml.github.io/reason-react/docs/en/router) you might be interested in.
+https://www.headspace.com/.
